@@ -44,9 +44,7 @@ This personal portfolio website serves as an online resume and showcase of Rahul
 
 ## Usage
 
-1. Clone the repository to your local machine:
-
-     git clone <https://github.com/Rahuljoshi07/Personal-Portfolio/tree/main>
+1. Clone the repository to your local machine: git clone https://github.com/Rahuljoshi07/Personal-Portfolio.git
    
 2. Open the `index.html` file in your web browser to view the website locally.
 
